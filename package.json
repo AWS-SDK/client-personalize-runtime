@@ -52,10 +52,10 @@
         "index.min.mjs"
     ],
     "dependencies": {
-        "@aws-sdk/client-personalize-runtime": "^3.844.0"
+        "@aws-sdk/client-personalize-runtime": "^3.873.0"
     },
     "devDependencies": {
-        "webpack": "^5.100.1",
+        "webpack": "^5.101.3",
         "webpack-cli": "^6.0.1"
     },
     "engines": {
